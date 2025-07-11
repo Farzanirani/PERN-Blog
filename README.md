@@ -149,7 +149,7 @@ CREATE TABLE comments (
 ```bash
 # Start backend
 cd server
-nodemon index.js
+npm run dev
 
 # Start frontend
 cd ../client
